@@ -27,8 +27,11 @@ The analysis utilizes various tables from the music store database, including `I
 Each question is addressed with a specific SQL query, followed by the data output. The queries are designed to join multiple tables and apply aggregations, filters, and ordering to extract the required information.
 
 ## Author
-**Giri Sai Manikanta Dara
-**Website (https://daragirisaimanikanta.netlify.app)
-**GitHub: @manikanta1801
-**Linkedin: Giri Sai Manikanta Dara  (https://www.linkedin.com/in/giri-sai-manikanta-dara-068538228/)
+Giri Sai Manikanta Dara
+
+Website (https://daragirisaimanikanta.netlify.app)
+
+GitHub: @manikanta1801
+
+Linkedin: Giri Sai Manikanta Dara  (https://www.linkedin.com/in/giri-sai-manikanta-dara-068538228/)
 
