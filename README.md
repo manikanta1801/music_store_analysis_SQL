@@ -1,4 +1,4 @@
-# Music Store Analysis Using SQL 
+# Music Store Analysis Using SQL
 This repository contains a comprehensive analysis of a music store's database using SQL. The analysis was conducted to answer several business-related questions, leveraging SQL queries to extract meaningful insights from the data.
 # Project Overview
 The project addresses the following key questions:
